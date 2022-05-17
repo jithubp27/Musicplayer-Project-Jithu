@@ -10,6 +10,8 @@ from sympy import root
 from pygame import mixer
 import os
 
+
+
 root=Tk()
 root.title("Music player")
 root.geometry("920x670+290+85")
